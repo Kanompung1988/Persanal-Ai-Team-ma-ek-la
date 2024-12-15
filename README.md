@@ -30,3 +30,4 @@
 ---
 
 ขอขอบคุณ **PMU-B Personal AI Program** ที่สนับสนุนโครงการนี้  
+[Github](https://github.com/Kanompung1988/Persanal-Ai-Team-ma-ek-la.git)
